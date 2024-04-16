@@ -7,3 +7,5 @@ Created on Tue Apr 16 12:05:46 2024
 
 def function(i):
     print(i)
+    
+    return i

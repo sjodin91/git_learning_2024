@@ -2,5 +2,3 @@
 
 #Adding information to file
 
-
-### Start to understand
