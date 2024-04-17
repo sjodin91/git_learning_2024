@@ -2,8 +2,5 @@
 
 #Adding information to file
 
-
 # LUNCH
-
 #Skit in skit ut, det är som vanligt
-
